@@ -1,0 +1,4 @@
+binary-component libmozgnome.so
+binary-component libpurplexpcom.so
+binary-component libbonjour.so
+binary-component libtrayToolkit.so
